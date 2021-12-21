@@ -9,7 +9,7 @@ airplane automobile bird cat deer dog frog horse ship truck
 
 ![](CIFAR-10.jpg)
 
-The strategy is based on pooling steps to decrease width and height dimensions to 1*1 and then pass it to feed-forward classifier.
+The approach is based on pooling steps to decrease width and height dimensions to 1*1 and then pass it to feed-forward classifier.
 
 I played some time with manual hyperparameter tuning and got 92.07% accuracy on the test dataset.
 
